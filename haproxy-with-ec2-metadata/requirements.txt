@@ -1,0 +1,2 @@
+Flask==1.0.3  
+ec2-metadata==2.7.0
