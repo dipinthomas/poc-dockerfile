@@ -1,6 +1,7 @@
 # Docker Image
 
-Like most people after doing quick POC I forget to document the process, most of the time code used in POC will be helpful in later stage, hence this repository to save all my POC code and dockerfiles. 
+Like most people, I forget to document the process after doing a quick POC. Most of the time, the code used in the POC will be useful later on, so I created this repository to save all of my POC code and Docker files. 
+
 
 # Folder Overview
 
